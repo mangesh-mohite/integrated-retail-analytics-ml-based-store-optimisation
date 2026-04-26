@@ -1,4 +1,4 @@
-# 🛍️ Integrated Retail Analytics for Store Optimization using Advanced Machine Learning
+# 🛍️ Integrated Retail Analytics Machine Learning Based Store Optimization
 
 # 📄 Description
 Developed a comprehensive machine learning pipeline to optimize retail store operations and enhance customer experience. The project integrates **data preprocessing, anomaly detection, segmentation, personalization, market basket analysis, and demand forecasting** to help retailers make data-driven decisions.
@@ -54,4 +54,4 @@ Developed a comprehensive machine learning pipeline to optimize retail store ope
 
 # 👤 Author
 
-Shruti Walunj
+Mangesh Mohite
